@@ -1,0 +1,18 @@
+E:\Projects\My Projects With C#\Words Store\WordsStore_BuisnessLayer\bin\Debug\WordsStore_BuisnessLayer.dll
+E:\Projects\My Projects With C#\Words Store\WordsStore_BuisnessLayer\bin\Debug\WordsStore_BuisnessLayer.pdb
+E:\Projects\My Projects With C#\Words Store\WordsStore_BuisnessLayer\bin\Debug\WordsStore_DataAccessLayer.dll
+E:\Projects\My Projects With C#\Words Store\WordsStore_BuisnessLayer\bin\Debug\WordsStore_DataAccessLayer.pdb
+E:\Projects\My Projects With C#\Words Store\WordsStore_BuisnessLayer\obj\Debug\WordsStore_BuisnessLayer.csproj.AssemblyReference.cache
+E:\Projects\My Projects With C#\Words Store\WordsStore_BuisnessLayer\obj\Debug\WordsStore_BuisnessLayer.csproj.CoreCompileInputs.cache
+E:\Projects\My Projects With C#\Words Store\WordsStore_BuisnessLayer\obj\Debug\WordsStore_BuisnessLayer.csproj.CopyComplete
+E:\Projects\My Projects With C#\Words Store\WordsStore_BuisnessLayer\obj\Debug\WordsStore_BuisnessLayer.dll
+E:\Projects\My Projects With C#\Words Store\WordsStore_BuisnessLayer\obj\Debug\WordsStore_BuisnessLayer.pdb
+D:\Projects\My_Projects_c#\Words Store\WordsStore_BuisnessLayer\bin\Debug\WordsStore_BuisnessLayer.dll
+D:\Projects\My_Projects_c#\Words Store\WordsStore_BuisnessLayer\bin\Debug\WordsStore_BuisnessLayer.pdb
+D:\Projects\My_Projects_c#\Words Store\WordsStore_BuisnessLayer\bin\Debug\WordsStore_DataAccessLayer.dll
+D:\Projects\My_Projects_c#\Words Store\WordsStore_BuisnessLayer\bin\Debug\WordsStore_DataAccessLayer.pdb
+D:\Projects\My_Projects_c#\Words Store\WordsStore_BuisnessLayer\obj\Debug\WordsStore_BuisnessLayer.csproj.AssemblyReference.cache
+D:\Projects\My_Projects_c#\Words Store\WordsStore_BuisnessLayer\obj\Debug\WordsStore_BuisnessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\My_Projects_c#\Words Store\WordsStore_BuisnessLayer\obj\Debug\WordsStore_BuisnessLayer.csproj.CopyComplete
+D:\Projects\My_Projects_c#\Words Store\WordsStore_BuisnessLayer\obj\Debug\WordsStore_BuisnessLayer.dll
+D:\Projects\My_Projects_c#\Words Store\WordsStore_BuisnessLayer\obj\Debug\WordsStore_BuisnessLayer.pdb

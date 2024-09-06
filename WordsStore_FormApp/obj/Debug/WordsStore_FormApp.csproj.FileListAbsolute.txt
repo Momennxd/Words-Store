@@ -1,0 +1,39 @@
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\bin\Debug\WordsStore_FormApp.exe.config
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\bin\Debug\WordsStore_FormApp.exe
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\bin\Debug\WordsStore_FormApp.pdb
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.csproj.AssemblyReference.cache
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.csproj.SuggestedBindingRedirects.cache
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.Properties.Resources.resources
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.csproj.GenerateResource.cache
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.csproj.CoreCompileInputs.cache
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.exe
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.pdb
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\bin\Debug\WordsStore_BuisnessLayer.dll
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\bin\Debug\WordsStore_BuisnessLayer.pdb
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.csproj.CopyComplete
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\bin\Debug\WordsStore_DataAccessLayer.dll
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\bin\Debug\WordsStore_DataAccessLayer.pdb
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.AddNewWordScreen.resources
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.MainScreen.resources
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.WordDetailsScreen.resources
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.PracticeScreen.resources
+E:\Projects\My Projects With C#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.PracticeSettingsScreen.resources
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\bin\Debug\WordsStore_FormApp.exe.config
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\bin\Debug\WordsStore_FormApp.exe
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\bin\Debug\WordsStore_FormApp.pdb
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\bin\Debug\WordsStore_BuisnessLayer.dll
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\bin\Debug\WordsStore_DataAccessLayer.dll
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\bin\Debug\WordsStore_BuisnessLayer.pdb
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\bin\Debug\WordsStore_DataAccessLayer.pdb
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.csproj.AssemblyReference.cache
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.AddNewWordScreen.resources
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.MainScreen.resources
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.PracticeScreen.resources
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.PracticeSettingsScreen.resources
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.Properties.Resources.resources
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.WordDetailsScreen.resources
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.csproj.GenerateResource.cache
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.csproj.CoreCompileInputs.cache
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.csproj.CopyComplete
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.exe
+D:\Projects\My_Projects_c#\Words Store\WordsStore_FormApp\obj\Debug\WordsStore_FormApp.pdb

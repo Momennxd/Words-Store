@@ -1,0 +1,12 @@
+E:\Projects\My Projects With C#\Words Store\WordsStore_DataAccessLayer\bin\Debug\WordsStore_DataAccessLayer.dll
+E:\Projects\My Projects With C#\Words Store\WordsStore_DataAccessLayer\bin\Debug\WordsStore_DataAccessLayer.pdb
+E:\Projects\My Projects With C#\Words Store\WordsStore_DataAccessLayer\obj\Debug\WordsStore_DataAccessLayer.csproj.AssemblyReference.cache
+E:\Projects\My Projects With C#\Words Store\WordsStore_DataAccessLayer\obj\Debug\WordsStore_DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Projects\My Projects With C#\Words Store\WordsStore_DataAccessLayer\obj\Debug\WordsStore_DataAccessLayer.dll
+E:\Projects\My Projects With C#\Words Store\WordsStore_DataAccessLayer\obj\Debug\WordsStore_DataAccessLayer.pdb
+D:\Projects\My_Projects_c#\Words Store\WordsStore_DataAccessLayer\bin\Debug\WordsStore_DataAccessLayer.dll
+D:\Projects\My_Projects_c#\Words Store\WordsStore_DataAccessLayer\bin\Debug\WordsStore_DataAccessLayer.pdb
+D:\Projects\My_Projects_c#\Words Store\WordsStore_DataAccessLayer\obj\Debug\WordsStore_DataAccessLayer.csproj.AssemblyReference.cache
+D:\Projects\My_Projects_c#\Words Store\WordsStore_DataAccessLayer\obj\Debug\WordsStore_DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\My_Projects_c#\Words Store\WordsStore_DataAccessLayer\obj\Debug\WordsStore_DataAccessLayer.dll
+D:\Projects\My_Projects_c#\Words Store\WordsStore_DataAccessLayer\obj\Debug\WordsStore_DataAccessLayer.pdb
